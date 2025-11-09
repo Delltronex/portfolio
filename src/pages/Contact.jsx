@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import emailjs from "@emailjs/browser";
-import resume from "../assets/Kaushal_R.pdf";
+import resume from "Kaushal_R.pdf";
 
 
 export default function Contact() {
