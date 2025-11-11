@@ -55,7 +55,7 @@ Showcasing the **Tron aesthetic** and responsive layout of the portfolio website
 
 `https://github.com/Delltronex/Tron_Portfholio.git`
 
-### `cd tron-portfolio`
+`cd tron-portfolio`
 
 ### 2️⃣ Install dependencies
 
