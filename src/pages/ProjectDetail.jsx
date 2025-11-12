@@ -18,31 +18,32 @@ export default function ProjectDetails() {
       code: "https://github.com/Delltronex/PDF_Chatbot_translator.git",
     },
     2: {
-      title: "Project Beta – Web",
-      tag: "Web Development",
+      title: "Healthcare Website",
+      tag: "AI/ML",
       description:
-        "A futuristic Next.js portfolio website inspired by TRON, featuring glowing UI, grid animations, and interactive elements.",
-      tech: ["Next.js", "React", "Tailwind CSS", "Framer Motion"],
+        "Developed an AI-driven healthcare platform to provide insights based on patient medical records.",
+        
+      tech: ["Python", "Huggingface Model", "JavaScript", "HTML/CSS"],
       live: "https://tron-portfolio.vercel.app",
       code: "https://github.com/kaushalshukla/tron-portfolio",
     },
     3: {
-      title: "Project Gamma – Blockchain",
-      tag: "Blockchain",
+      title: "Fake Website Detector",
+      tag: "AI/ML",
       description:
-        "A decentralized healthcare record system ensuring secure, immutable, and permissioned data access for patients and doctors.",
-      tech: ["Solidity", "React", "Node.js", "Ethereum", "MetaMask"],
+        "Developed a system to detect fake websites by analysing URLs, enhancing online security and user trust.",
+      tech: ["Pyhton", "Pandas", "HTML", "CSS", "JavaScript"],
       live: "https://blockhealth-demo.netlify.app",
       code: "https://github.com/kaushalshukla/blockhealth",
     },
     4: {
-      title: "Project Delta – FinTech",
-      tag: "FinTech / AI",
+      title: "Tron Portfolio Website",
+      tag: "Website",
       description:
-        "An AI chatbot for financial risk evaluation using LangChain, capable of analyzing portfolios and providing risk scores.",
-      tech: ["Python", "LangChain", "OpenAI API", "FastAPI"],
-      live: "https://finedge-ai.vercel.app",
-      code: "",
+        "A futuristic Tron-inspired React + Vite portfolio website showcasing my projects, skills, education, and experience.",
+      tech: ["React", "Vite", "Nodemailer", "Vercel"],
+      live: "https://portfolio-roan-psi-hwy5du99m6.vercel.app/",
+      code: "https://github.com/Delltronex/Tron_Portfholio.git",
     },
   };
 
