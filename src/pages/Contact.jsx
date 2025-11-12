@@ -44,7 +44,7 @@ export default function Contact() {
           <p><strong>📞 Mobile:</strong> <a href="tel:+91 8739026208">+91 8739026208</a></p>
           <p><strong>📧 Email:</strong> <a href="mailto:kaushalshukla912@gmail.com">kaushalshukla912@gmail.com</a></p>
           <p><strong>💻 GitHub:</strong> <a href="https://github.com/Delltronex" target="_blank" rel="noopener noreferrer">Delltronex</a></p>
-          <p><strong>🔗 LinkedIn:</strong> <a href="www.linkedin.com/in/kaushal-delta" target="_blank" rel="noopener noreferrer">kaushalshukla</a></p>
+          <p><strong>🔗 LinkedIn:</strong> <a href="https://linkedin.com/in/kaushal-delta" target="_blank" rel="noopener noreferrer">kaushalshukla</a></p>
            <p>
             <strong>📄 Resume:</strong>{" "}
             <a href={resume} download="Kaushal_R.pdf" target="_blank" rel="noopener noreferrer">
