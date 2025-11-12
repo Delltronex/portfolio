@@ -6,9 +6,9 @@ export default function Projects() {
 
   const projects = [
     { id: 1, title: "PDF Chat Web App", desc: "llama 2 model baesd chatbot." },
-    { id: 2, title: "Project Beta – Web", desc: "Next.js Tron portfolio site." },
-    { id: 3, title: "Project Gamma – Blockchain", desc: "Decentralized health records." },
-    { id: 4, title: "Project Delta – FinTech", desc: "AI chatbot for financial risk." },
+    { id: 2, title: "Healthcare Website", desc: " AI-driven healthcare platform." },
+    { id: 3, title: "Fake Website Detector", desc: "A system to detect fake websites." },
+    { id: 4, title: "Tron Portfolio Website", desc: "website showcasing my self." },
   ];
 
   return (
