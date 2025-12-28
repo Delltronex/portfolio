@@ -338,17 +338,4 @@ button.neon-btn:hover {
 }
 
 /* HERO ON MOBILE */
-/* Disable grid + glow layers on mobile for HERO clarity */
-@media (max-width: 480px) {
-  body::after, body::before {
-    display: none !important;
-  }
-  .hero {
-    background-image: url('/tron.jpg') !important; 
-    background-size: cover !important;
-    background-position: center !important;
-  }
-  .hero::after {
-    background: rgba(0,0,0,0.25) !important;
-  }
-}
+
